@@ -1,1 +1,1 @@
-# postgresql-non-persistent
+# pg-non-persistent
